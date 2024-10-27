@@ -1,0 +1,13 @@
+Status	C1.bam	C2.bam	K1.bam	K2.bam
+Assigned	35264747	37770613	22095092	17409804
+Unassigned_Unmapped	0	0	0	0
+Unassigned_MappingQuality	14083937	14896918	11192686	8352297
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0
+Unassigned_Secondary	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0
+Unassigned_NoFeatures	9702073	9624501	11622587	8169105
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	583143	627739	352653	272430
